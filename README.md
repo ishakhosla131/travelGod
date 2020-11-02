@@ -26,4 +26,4 @@ https://github.com/jsgarzi/Travel_God
 Naysalee Acosta, Francis Roy Balasabas, Isha Khosla, Carl Logerie, Julian Sgarzi, and Anita Dan
 
 ### Link to the App
-https://jsgarzi.github.io/Travel_God/index.html
+https://ishakhosla131.github.io/travelGod/.
